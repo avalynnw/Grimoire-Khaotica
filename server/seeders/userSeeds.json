@@ -1,52 +1,37 @@
 [
   {
-    "username": "Brian Kernighan",
-    "email": "bkernighan@techfriends.dev",
-    "password": "password01"
+    "username": "Scarlett",
+    "email": "ScarlettKitty@gmail.com",
+    "password": "password"
   },
   {
-    "username": "Max Kanat-Alexander",
-    "email": "mkanatalexander@techfriends.dev",
-    "password": "password02"
+    "username": "Ilá",
+    "email": "BloodRedShield@gmail.com",
+    "password": "password"
   },
   {
-    "username": "Why The Lucky Stiff",
-    "email": "wtls@techfriends.dev",
-    "password": "password03"
+    "username": "Czera",
+    "email": "SpiderMommy663@gmail.com",
+    "password": "password"
   },
   {
-    "username": "Kent Beck",
-    "email": "kbeck@techfriends.dev",
-    "password": "password04"
+    "username": "Molly",
+    "email": "QueerSlut69@gmail.com",
+    "password": "password"
   },
   {
-    "username": "Edward V. Berard",
-    "email": "evberard@techfriends.dev",
-    "password": "password05"
+    "username": "Molly",
+    "email": "QueerSlut69@gmail.com",
+    "password": "password"
   },
   {
-    "username": "Alan Kay",
-    "email": "akay@techfriends.dev",
-    "password": "password06"
+    "username": "Nora",
+    "email": "SpiritHealer@gmail.com",
+    "password": "password"
   },
   {
-    "username": "C.A.R. Hoare",
-    "email": "choare@techfriends.dev",
-    "password": "password07"
-  },
-  {
-    "username": "David Thomas",
-    "email": "dthomas@techfriends.dev",
-    "password": "password08"
-  },
-  {
-    "username": "Donald Knuth",
-    "email": "dknuth@techfriends.dev",
-    "password": "password09"
-  },
-  {
-    "username": "Lernantino",
-    "email": "lernantino@techfriends.dev",
-    "password": "password10"
+    "username": "Myra",
+    "email": "WitchqueenMyra@gmail.com",
+    "password": "password"
   }
 ]
